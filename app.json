@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "nozza",
-    "slug": "snack-0d376c9c-4ce6-41f2-92ad-4fe4e2966ca3",
+    "slug": "snack-e9ead887-1ede-4947-a31b-064997badb01",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,7 +20,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.snacke9ead8871ede4947a31b064997badb01"
     },
     "web": {
       "favicon": "./assets/favicon.png"
